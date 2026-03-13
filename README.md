@@ -1,2 +1,2 @@
 # Vampire-Apocalypse
-please readme
+this is a readme show have a purpose
